@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BottomSheetMenu</string>
+
+    <!-- font file paths -->
+    <string name="font_sofia_regular">fonts/Sofia-Regular.otf</string>
+    <string name="font_caviar_dreams_regular">fonts/CaviarDreams.ttf</string>
+    <string name="font_caviar_dreams_bold">fonts/Caviar_Dreams_Bold.ttf</string>
+    <string name="font_caviar_dreams_bold_italic">fonts/CaviarDreams_BoldItalic.ttf</string>
+    <string name="font_caviar_dreams_italic">fonts/CaviarDreams_Italic.ttf</string>
+
+    <string name="err_msg_something_went_wrong">Something went wrong.</string>
+
+    <!-- Disclaimer -->
+    <string name="btn_ok">Ok</string>
+    <string name="btn_accept">Accept</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="msg_accept_tou">I agree with these terms**</string>
+    <string name="txt_header_disclaimer">Disclaimer</string>
+    <string name="txt_header_tou">Terms of Use</string>
+
+</resources>
